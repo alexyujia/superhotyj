@@ -69,3 +69,4 @@ Additional modules to Sen.
 
 -   All configuration has been made in `native_splash.yaml`, however if you want better splash
     screen, please change it as your wish.
+good  good  good
